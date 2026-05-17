@@ -8,7 +8,7 @@ Bienvenue ! Cette page regroupe les liens utiles de **Aline Saos**, conseillère
 
 | Lien | Description |
 |------|-------------|
-| [👜 Visiter notre boutique](https://www.chogangroupspa.com/referral/ALI2F474C) | Commandez vos parfums et produits Chogan directement en ligne |
+| [👜 Visiter ma boutique](https://www.chogangroupspa.com/referral/ALI2F474C) | Commandez vos parfums et produits Chogan directement en ligne |
 | [📄 Nos catalogues](https://drive.google.com/drive/folders/1GJRv_vapNgMSA_pQPL_ACyqjPewmjPb7?usp=drive_link) | Consultez l'intégralité de notre catalogue de produits |
 
 ---
